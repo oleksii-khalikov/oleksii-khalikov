@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-profile-trophy.vercel.app/?username=oleksii-khalikov&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&margin-h=15&rank=-UNKNOWN,-SECRET)
+
 <!--
 **oleksii-khalikov/oleksii-khalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
